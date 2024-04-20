@@ -1,0 +1,47 @@
+.body-parent-bottom{
+    max-height: 600px;
+    height: 600px;
+    text-align: center;
+}
+.first-title-bottom{
+    margin-top: 30px;
+    font-size: 3rem;
+}
+
+.parent-content{
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    
+}
+.content{
+    width: 50px;
+    height: 250px;
+    background-color: #BFD202;
+    flex:1;
+    margin:10px;
+    margin-top: 120px;
+    border-radius: 5%;
+    padding: 0;
+}
+h1{
+    overflow: hidden;
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+ul{
+    margin-top: 50px;
+    margin-left: 20px;
+    list-style-position: inside;
+}
+
+.img{
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}

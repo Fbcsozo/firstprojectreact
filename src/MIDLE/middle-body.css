@@ -1,0 +1,51 @@
+.body-parent{
+    max-height:600px ;
+    height: 600px;
+    background: url(/public/images/2.png) no-repeat center  #F8F4ED;
+    display: flex;
+}
+
+.title{ 
+    padding-top: 180px;
+    padding-left: 60px;
+    font-size: 4.6rem;
+    display: block;
+}
+.span{
+    padding-left: 20px;
+    font-size: 2rem;
+}
+
+.input-icon{
+    padding: 4px;
+    align-items: center;
+    justify-content: center;
+    display: inline;
+    
+}
+.input-element{
+    margin-left: 50px;
+    margin-top: 19px;
+    border: none;
+    outline: none;
+    height: 16.82px;
+    border-left:1px solid grey
+}
+.icon-first{
+    background-color:white;
+    border: none;
+    height: 16.5px;
+    border-right:1px solid grey
+    
+}
+.cest-img{
+    height: 200px;
+    width: 200px;;
+    margin-left: 730px;
+    float: right;
+}
+.selection{
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 5%;
+}

@@ -1,0 +1,37 @@
+.body-father{
+    max-height: 600px;
+}
+
+.left-body{
+    margin: 0;
+    width: 60%;
+    height: 600px;
+    background-color: #BFD202;
+    padding: 0;
+    float: left;
+    
+}
+.first-title{
+    margin-left: 50px;
+    padding-top: 250px;
+    font-size: 4.6rem;
+}
+.span{
+    margin-left: 40px;
+}
+.controle-semanal{
+margin-left: 50px;
+border-radius: 5%;
+}
+
+.right-body{
+    margin: 0;
+    float: right;
+    width: 40%;
+    height: 600px;
+}
+.img-first{
+    
+    width: 100%;
+    height: 100%;
+}
